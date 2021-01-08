@@ -1,1 +1,1 @@
-print("fuck trump")
+print("fuck all")
